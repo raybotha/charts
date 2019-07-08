@@ -116,9 +116,9 @@ hub:
   # gridNodePolling: 5000
   ## In milliseconds
   # gridCleanUpCycle: 5000
-  ## In milliseconds
-  # gridTimeout: 30000
-  ## In milliseconds
+  ## In seconds
+  # gridTimeout: 1800
+  ## In seconds
   # gridBrowserTimeout: 0
   # gridMaxSession: 5
   ## In milliseconds
